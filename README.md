@@ -27,7 +27,7 @@ It follows the phone's light or dark mode.
 ## Decisions
 
 - **No app to build.** Scriptable runs JavaScript widgets on iOS, so this is one file.
-- **Reads the page, no API.** In 2022 I did not find a public Runalyze API for these values, so the script signs in and reads the same panel I looked at by hand. It breaks if Runalyze changes that page.
+- **Reads the page.** The script signs in and reads the same calculations panel the website shows. It breaks if Runalyze changes that page.
 
 ## Set it up
 
