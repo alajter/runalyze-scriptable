@@ -40,7 +40,7 @@ The first sign-in can take a while. If the widget stays empty, run it again afte
 
 To show other values, change which entries of the calculations panel are read (around lines 73 to 96 of `Runalyze.js`).
 
-Provided as is, for personal use.
+Provided as is.
 
 ## The series
 
@@ -50,3 +50,7 @@ Four attempts at the same question for the same runner (me): what should I run t
 2. [run-radar](https://github.com/Andrel666/run-radar) (Nov 2025 to Jan 2026). Run analytics plus sleep, and a morning readiness score.
 3. [run-coach](https://github.com/Andrel666/run-coach) (Mar 2026). A broad AI coach: chat, generated plans, recovery from Apple Health, gait analysis from video.
 4. [run-planner](https://github.com/Andrel666/run-planner) (Nov 2026). Narrowed to one runner and one race, with plan rules you can read and test instead of AI.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
