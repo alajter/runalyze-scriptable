@@ -46,10 +46,10 @@ Provided as is.
 
 Four attempts at the same question for the same runner (me): what should I run today, and is the plan still right?
 
-1. [runalyze-scriptable](https://github.com/Andrel666/runalyze-scriptable) (2022). An iOS home-screen widget with my Runalyze numbers.
-2. [run-radar](https://github.com/Andrel666/run-radar) (Nov 2025 to Jan 2026). Run analytics plus sleep, and a morning readiness score.
-3. [run-coach](https://github.com/Andrel666/run-coach) (Mar 2026). A broad AI coach: chat, generated plans, recovery from Apple Health, gait analysis from video.
-4. [run-planner](https://github.com/Andrel666/run-planner) (Nov 2026). Narrowed to one runner and one race, with plan rules you can read and test instead of AI.
+1. [runalyze-scriptable](https://github.com/alajter/runalyze-scriptable) (2022). An iOS home-screen widget with my Runalyze numbers.
+2. [run-radar](https://github.com/alajter/run-radar) (Nov 2025 to Jan 2026). Run analytics plus sleep, and a morning readiness score.
+3. [run-coach](https://github.com/alajter/run-coach) (Mar 2026). A broad AI coach: chat, generated plans, recovery from Apple Health, gait analysis from video.
+4. [run-planner](https://github.com/alajter/run-planner) (Nov 2026). Narrowed to one runner and one race, with plan rules you can read and test instead of AI.
 
 ## License
 
